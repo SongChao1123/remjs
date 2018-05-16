@@ -1,0 +1,15 @@
+{
+  "name": "remjs",
+  "version": "0.0.1",
+  "description": "rem自适应脚本",
+  "main": "w.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.com:ngfe/remjs.git"
+  },
+  "author": "ngfe",
+  "license": "ISC"
+}
